@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammmad Mahad</h1>
 <h3 align="center">A passionate developer from India!</h3>
-<img align-"right" alt="Coding" width="400" scr="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/">
+<img align-"right" alt="Coding" width="400" scr="https://i.gifer.com/JSpD.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadsid&label=Profile%20views&color=0e75b6&style=flat" alt="mahadsid" /> </p>
 

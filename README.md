@@ -13,7 +13,7 @@ const AboutMe = {
   ]
 }
 ```
-<img  align="right" src="https://media.tenor.com/LuKpmqz9pSMAAAAC/jim-halpert-smile.gif" alt="Girl in a jacket" width="300" height="200">
+<img  align="right" src="https://media.tenor.com/LuKpmqz9pSMAAAAC/jim-halpert-smile.gif" alt="Office gif" width="300" height="200">
 
 
 #### I’m a Student, Web Developer, and Linux Enthusiast.

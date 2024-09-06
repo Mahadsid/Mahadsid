@@ -6,8 +6,7 @@
 ```js
 const AboutMe = {
   Name: "Muhammad Mahad",
-  Age: 21,
-  Pronouns: ["He", "Him"],
+  Age: 23,
   Hobbies: [
    "Coding", "Blogging", "Learning New Stuff", "Listening to music" 
   ]

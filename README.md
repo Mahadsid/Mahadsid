@@ -7,7 +7,7 @@
 - 💻 Building Nextjs applications.
 
 ## Portfolio:
-[💻 Portfolio!'26 - Muhammad Mahad](https://portfolio-2026-theta-eosin.vercel.app/)
+- [💻 Portfolio!'26 - Muhammad Mahad](https://portfolio-2026-theta-eosin.vercel.app/)
 - [💻 Portfolio!- Muhammad Mahad](https://mahadsid.github.io/portfolio/#)
 
 ## 🌐 Connect with me:
